@@ -10,7 +10,7 @@ const PinnedRepos: FC = () => {
 	useEffect(() => {
 		const { cancel, token } = axios.CancelToken.source();
 		axios
-			.get<iPinnedRepoItem[]>("https://gh-pinned-repos.egoist.sh/?username=DaanGamesDG", { cancelToken: token })
+			.get<iPinnedRepoItem[]>("https://gh-pinned-repos.egoist.sh/?username=gnoahg", { cancelToken: token })
 			.then((data) => setPinned(data.data))
 			.catch(() => void 0);
 

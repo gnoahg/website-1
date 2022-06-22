@@ -7,12 +7,12 @@ module.exports = {
 	redirects: () => [
 		{
 			source: "/discord/banner",
-			destination: "https://discord.com/api/guilds/828382957310967820/embed.png?style=banner2",
+			destination: "https://discord.com/api/guilds/963594220671750174/embed.png?style=banner2",
 			permanent: true
 		},
 		{
 			source: "/discord",
-			destination: "https://discord.gg/6X2TZZ5Gjg",
+			destination: "https://discord.gg/4PnXWFvmHx",
 			permanent: true
 		},
 		{

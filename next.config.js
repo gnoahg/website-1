@@ -17,22 +17,12 @@ module.exports = {
 		},
 		{
 			source: "/github",
-			destination: "https://github.com/DaanGamesDG",
+			destination: "https://github.com/gnoahg",
 			permanent: true
 		},
 		{
 			source: "/github/:repo",
-			destination: "https://github.com/DaanGamesDG/:repo",
-			permanent: true
-		},
-		{
-			source: "/paypal",
-			destination: "https://paypal.me/DaanGamesDG",
-			permanent: true
-		},
-		{
-			source: "/kofi",
-			destination: "https://ko-fi.com/DaanGamesDG",
+			destination: "https://github.com/gnoahg/:repo",
 			permanent: true
 		}
 	]

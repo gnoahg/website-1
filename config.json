@@ -3,7 +3,7 @@
 		"title": "gnoahg",
 		"page_prefix": "Noah • ",
 		"description": "14 year-old discord bot developer from Canada CA.",
-		"theme_color": "#333333"
+		"theme_color": "#ff4151"
 	},
 	"discord": "660930457575096330",
 	"github": "gnoahg",
@@ -22,7 +22,7 @@
 				},
 				{
 					"icon": "fa-solid fa-envelope",
-					"path": "mailto:daan@daangamesdg.xyz"
+					"path": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 				},
 				{
 					"icon": "fa-solid fa-location-arrow",
@@ -33,8 +33,8 @@
 		},
 		"about": {
 			"about": {
-				"text": "fart",
-				"picture": "https://avatars.githubusercontent.com/u/65551719",
+				"text": "gnoahg",
+				"picture": "https://avatars.githubusercontent.com/u/6441899",
 				"picture_tooltip": "lo"
 			},
 			"cards": [
